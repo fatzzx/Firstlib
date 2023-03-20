@@ -1,5 +1,5 @@
 # Biblioteca npm fatzzx
-Olá! Meu nome é Fatzzx e tenho 19 anos. Atualmente, estou cursando Engenharia de Computação, A criação dessa biblioteca foi uma forma de aprimorar meus conhecimentos em Node.js e programação em geral. 
+Olá! Me chamo Fatzzx e tenho 19 anos. Atualmente, estou cursando Engenharia de Computação, A criação dessa biblioteca foi uma forma de aprimorar meus conhecimentos em Node.js e programação em geral. 
 
 A biblioteca npm fatzzx é uma ferramenta de análise de arquivos que pode ajudar a identificar se um arquivo está ou não em conformidade com determinados padrões e requisitos.
 
