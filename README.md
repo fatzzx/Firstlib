@@ -17,7 +17,10 @@ Adicione o seguinte código ao arquivo package.json na seção "scripts":
 ```json
 "cli": "node ./node_modules/fatzzx/src/cli.js"
 ```
-
+Você tambem deve definir o type como mudule:
+```json
+"type": "module"
+```
 Para usar o script, execute o seguinte comando:
 ```bash 
 npm run cli .\arquivos\ -- --valid
