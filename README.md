@@ -23,7 +23,7 @@ Você tambem deve definir o type como mudule:
 ```
 Para usar o script, execute o seguinte comando:
 ```bash 
-npm run cli .\arquivos\ -- --valid
+npm run cli "caminho do arquivo" -- --valid
 ```
 Certifique-se de substituir "caminho do arquivo" pelo caminho para o arquivo que você deseja analisar.
 
