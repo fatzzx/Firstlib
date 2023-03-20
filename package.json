@@ -1,9 +1,10 @@
 {
   "name": "fatzzx",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Biblioteca criada para verificar se os links de um arquivo .md ainda são validos. Essa é minha primeira bibliotea, e fiz de acordo com o curso da Alura|| Library created to check if links in an .md file are still valid. This is my first library, and I did it according to Alura's course",
   "keywords": ["markdown", "URL"],
   "main": "./cli.js",
+  "type": "module",
   "bin": {
     "<fatzzx>": "./cli.js"
   },
