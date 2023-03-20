@@ -20,7 +20,7 @@ Adicione o seguinte código ao arquivo package.json na seção "scripts":
 
 Para usar o script, execute o seguinte comando:
 ```bash 
-npm run cli "caminho do arquivo" --valid
+npm run cli .\arquivos\ -- --valid
 ```
 Certifique-se de substituir "caminho do arquivo" pelo caminho para o arquivo que você deseja analisar.
 
